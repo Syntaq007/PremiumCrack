@@ -5,7 +5,7 @@
 ```terminal
 $ pkg update -y && pkg upgrade -y && pkg install git -y && pkg install python -y
 $ pip install colorama
-$ git clone https://github.com/Syntaq007/Rahmad.Official
-$ cd Rahmad.Official
+$ git clone https://github.com/Syntaq007/PremiumCrack.git
+$ cd PremiumCrack
 $ python run.py
 ```
